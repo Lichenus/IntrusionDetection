@@ -27,6 +27,8 @@ if __name__ == '__main__':
     data2D = dataND.reshape(dataND.shape[0], 10, 10)
     print(data2D[5,:])
     # print(data2D.shape)
+    # print(data2D.shape)
+    # print(data2D.shape)
 
 
 
